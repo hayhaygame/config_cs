@@ -4,7 +4,7 @@
     {
       "id": "main",
       "name": "Main Server",
-      "host": "test.archergame.mobi",
+      "host": "160.250.4.143",
       "port": 1504,
       "websocket": "wss://test.archergame.mobi/ws",
       "enabled": true
