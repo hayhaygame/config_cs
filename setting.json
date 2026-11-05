@@ -5,7 +5,7 @@
       "id": "main",
       "name": "Main Server",
       "api": "https://test.archergame.mobi",
-      "port": 1504
+      "port": 1504,
       "websocket": "wss://test.archergame.mobi/ws",
       "enabled": true
     }
