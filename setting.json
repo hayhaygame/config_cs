@@ -1,1 +1,20 @@
-{"server": "test.archergame.mobi", "port": 1504, "message": ""}
+{
+  "config_version": 1,
+  "servers": [
+    {
+      "id": "main",
+      "name": "Main Server",
+      "api": "https://test.archergame.mobi",
+      "port": 1504
+      "websocket": "wss://test.archergame.mobi/ws",
+      "enabled": true
+    }
+  ],
+  "maintenance": {
+    "enabled": false,
+    "message": "",
+    "starts_at": null,
+    "ends_at": null
+  },
+  "announcements": []
+}
